@@ -1,1 +1,3 @@
 # EXE-file-data-extraction
+
+In this project we'll extract the output of an exe file and count different values of it's output.  you'll need to preform the following steps in order to run the process successfuly:  1, save all the files: big.py and webserver.py files and generator-windows-amd64.exe file at the same folder. 2, run the webserver.py file first and then run the big.py file, keep both processes running togather. 3, open a localhost:8080 at your browser.  The data of the output extraction should appear at the localhost page you've open, in order to get the updated data you should refresh the page every time.
