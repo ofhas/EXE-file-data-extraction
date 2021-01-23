@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import json
 from subprocess import Popen, PIPE
 from threading import Thread
